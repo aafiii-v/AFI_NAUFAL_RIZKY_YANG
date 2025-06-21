@@ -1,0 +1,20 @@
+# Abaikan file sistem
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.xml
+*.jpg
+
+
+# Abaikan file dan folder editor
+.vscode/
+*.code-workspace
+
+# Abaikan backup Windows & OneDrive
+OneDrive/
+desktop.ini
+
+!assets/*.jpg
+!assets/*.jpeg
+!assets/*.png
